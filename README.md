@@ -12,8 +12,6 @@ Currently pursuing **MCA at Parul University** while actively shipping ML and fu
 - 🔭 Currently working on an **AI/ML Data Processing Pipeline** and AI-powered applications
 - 🌱 Learning & exploring **LLMs, Generative AI, Prompt Engineering & advanced NLP**
 - 👯 Open to collaborate on **AI/ML projects, Generative AI apps, and Full Stack products**
-- 💬 Ask me about **Python, Machine Learning, NLP, React.js, SQL, and workflow automation**
-- 📫 Reach me at: [mehtadarpit555@gmail.com](mailto:mehtadarpit555@gmail.com)
 - ⚡ Fun fact: I reduced manual data processing time by **40%** and maintained **99.8% accuracy** across 5,000+ records
 
 ---
